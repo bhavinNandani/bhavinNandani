@@ -28,6 +28,8 @@
     <a href="https://www.linkedin.com/in/bhavin-nandani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
   <a href="https://www.hackerrank.com/nandanibhavin?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
     <a href="https://www.instagram.com/win___15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinNandani&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinNandani" /> </p>
+
   </p>
 </br>
 
