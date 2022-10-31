@@ -18,9 +18,7 @@
 - 📬 How to reach me: I have mentioned the social links
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 </br>
 
 <h3 align="left">▶ Connect with me:</h3>
