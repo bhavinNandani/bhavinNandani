@@ -3,17 +3,17 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate Back End Developer. Love to build Web Applications, API with latest tech available😄
+<h3 align="left">A passionate Back End Developer. Love to build Web Applications, API with latest tech available😄
 </h3>
 
-<br>
+<h3 align="left">Visit my <a href="https://nandanibhavin.netlify.app/" target="_blank">Portfolio</a></h3>
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a Sr. Ruby on Rails Developer at <a href="https://www.bacancytechnology.com/" target="_blank">Bacancy Technology</a>
 - 🔭 I’m currently working on my Expense Tracker :grin:
 - 🌱 I’m currently learning Front-end Development using ReactJS.
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: I have mentioned the social links
 - 🧗 I try to: Go beyond and push the bounds
