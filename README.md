@@ -10,7 +10,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-### I am a Sr. Ruby on Rails Developer at <a href="https://www.bacancytechnology.com/" target="_blank">Bacancy Technology</a>
+### I am a Sr. Ruby on Rails Developer at <a href="https://www.ust.com/" target="_blank">UST</a>
 - 🔭 I’m currently working on my Expense Tracker :grin:
 - 🌱 I’m currently learning Front-end Development using ReactJS.
 - 🥅 2024 Goals: Contribute to Open Source projects
