@@ -1,162 +1,75 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=009900&size=30&lines=Hey!+It's+Bhavin!+👋;I'm+a+Back+End+Developer;I'm+a+API+Developer)
-<!-- <h1 align="center">Hi 👋, I'm Bhavin</h1> -->
-
-## 🧐 About
-
-<h3 align="left">A passionate Back End Developer. Love to build Web Applications, API with latest tech available😄
-</h3>
-
-<h3 align="left">Visit my <a href="https://nandanibhavin.netlify.app/" target="_blank">Portfolio</a></h3>
-
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
-### I am a Sr. Ruby on Rails Developer at <a href="https://www.rackspace.com/" target="_blank">Rackspace Technology</a>
-- 🔭 I’m currently working on my Expense Tracker :grin:
-- 🌱 I’m currently learning Front-end Development using ReactJS.
-- 🥅 2025 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: I have mentioned the social links
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
-
-</br>
-
-<h3 align="left">▶ Connect with me:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/bhavin-nandani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
-  <a href="https://www.hackerrank.com/nandanibhavin?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
-    <a href="https://www.instagram.com/win___15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinNandani&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinNandani" /> </p>
-
-  </p>
-</br>
-
-<h3 align="left">▶ Languages and Tools:</h3>
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <a href="https://www.ruby-lang.org/en/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" />
-      </a>
-      <a href="https://www.php.net/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
-      </a>
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
-      </a>
-      <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
-      </a> 
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <a href="https://html.com/html5/" target="_blank">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      </a>
-      <a href="#" target="_blank">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-      </a>
-      <a href="https://getbootstrap.com/" target="_blank">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-      </a>
-      <a href="https://www.javascript.com/" target="_blank">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-      </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
-      </a>
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-      </a>
-    </kbd><br/>
-    <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <a href="https://kotlinlang.org/" target="_blank">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-      </a>
-      <a href="https://www.android.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40px" />
-      </a>
-    </kbd>
-    <kbd>
-      <kbd>
-        <kbd>System, Networking & Deployment</kbd>
-        <br>
-        <br>
-        <a href="https://www.heroku.com/" target="_blank">
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-        </a>
-        <a href="https://circleci.com/" target="_blank">
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="CircleCI" />
-        </a>
-        <a href="https://git-scm.com/" target="_blank">
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-        </a>
-        <a href="https://www.atlassian.com/software/jira?bundle=jira-software&edition=free" target="_blank">
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-        </a>
-        <a href="https://firebase.google.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-        </a>
-      </kbd>
-      <kbd>
-        <kbd>Framework</kbd>
-        <br>
-        <br>
-      	<a href="https://rubyonrails.org/" target="_blank">
-        	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="40" height="40" />
-      	</a>
-      </kbd>
-      <kbd>
-        <kbd>Tools</kbd>
-        <br>
-        <br>
-        <a href="https://code.visualstudio.com/" target="_blank">
-          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        </a>
-      </kbd>
-    </kbd>
-  </kbd>
-</p>
-<h3 align="left">▶ Stats:</h3>
-<!-- <p align="center">
-<img src="https://metrics.lecoq.io/bhavinNandani?template=terminal&config.timezone=Asia%2FCalcutta" alt="bhavinNandani"
-</p>
- -->
-<!--<p align="center"><img src="https://badges.pufler.dev/visits/bhavinNandani/bhavinNandani?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/bhavinNandani/?style=for-the-badge"/>
-</p> -->
-
-
-</p>
+<div align="center">
+  <a href="https://nandanibhavin.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hey!+It's+Bhavin+Nandani!;Senior+Full-Stack+Engineer;AI+%26+Cloud+Architect;Ruby+on+Rails+%7C+Next.js" alt="Typing SVG" />
   </a>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavinNandani&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavinNandani&count_private=true&show_icons=trueline_height=21&theme=github_dark"> 
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavinNandani&theme=holi-theme">
-</p>
+</div>
+
+<div align="center">
+  <h3>🚀 Senior Full-Stack & AI Engineer</h3>
+  <p>Building scalable web architectures and intelligent AI systems.</p>
+  
+  <!-- Primary CTA -->
+  <a href="https://nandanibhavin.netlify.app/">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&border=true" alt="Portfolio" height="30" />
+  </a>
+
+  <br />
+  <br />
+  
+  <!-- Social Links with Spacing -->
+  <a href="https://www.linkedin.com/in/bhavin-nandani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nandanibhavin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="25" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/win___15/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="25" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/nandanibhavin">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" height="25" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavinNandani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Bhavin's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavinNandani&theme=tokyonight&hide_border=true&background=00000000" alt="Bhavin's Streak" height="150" />
+</div>
+
+<br />
+
+### 👨‍💻 About Me
+
+I am a **Senior Ruby on Rails Developer** at [Rackspace Technology](https://www.rackspace.com/) with a passion for building high-performance applications. My expertise spans from robust backend architectures to modern, interactive frontends and cutting-edge AI integrations.
+
+- 🔭 **Currently Working on:** Integrating Generative AI agents into web workflows and building [PassForge](https://github.com/bhavinNandani/pass_forge).
+- 🌱 **Learning:** Advanced AI Agents, Vertex AI, and Next.js App Router optimizations.
+- 💬 **Ask me about:** Ruby on Rails, Scalable API Design, Next.js, and Cloud Infrastructure.
+- ⚡ **Fun fact:** I love connecting diverse technologies to create seamless user experiences.
+
+<br />
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| **Backend & AI** | **Frontend & Mobile** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+
+</div>
+
+<br />
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavinNandani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&exclude_repo=kasweb" alt="Top Languages" />
+</div>
