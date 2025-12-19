@@ -25,10 +25,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="25" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/win___15/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="25" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/nandanibhavin">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" height="25" />
   </a>
